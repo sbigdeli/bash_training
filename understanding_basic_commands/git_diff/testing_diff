@@ -1,0 +1,7 @@
+# 1. Change a file
+# 2. Use git diff
+# 3. Change a file again
+# 4. Use git diff
+# 5. Use git diff --staged
+# 6. See the difference between the original file and the changes
+# 7. There is a difference between the git diff and git diff --staged since the staged file is in another directory
